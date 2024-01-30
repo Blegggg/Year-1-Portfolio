@@ -1,0 +1,12 @@
+funnytuple = ('ok', 'okok', 'okokok')
+print(funnytuple)
+print(funnytuple)
+funnytuple = (1, "Ok", 2,3)
+print(funnytuple)
+funnytuple = ( [8, 4, 6], (1, 2, 3 ))
+print(funnytuple)
+
+funnytuple = ('ok', 'okok', 'okokok')
+print('why', not funnytuple)
+print('ok' in funnytuple)
+for funnytuple in ('ok','okok','okokok'):print("Hello", funnytuple)
